@@ -13,6 +13,9 @@ a {
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
+footer {
+  text-align: bottom;
+}
 *{
 margin: 0px;
 padding: 0px;
